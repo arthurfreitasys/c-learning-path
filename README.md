@@ -5,6 +5,7 @@ Repositório criado com o objetivo de registrar minhas aprendizagens em C e comp
 #### Aqui eu vou salvar:
 ```
 | Exercícios que estou resolvendo na disclipina de "Linguagem de Programação".
+| Exercícios que estou resolvendo estudando por conta própria através de livros e vídeoaulas.
 ```
 #### Objetivo:
 Meu foco neste repositório é:
